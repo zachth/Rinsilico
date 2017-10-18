@@ -1,14 +1,15 @@
 # RinsilicoPCR - Test Primers and Extract Amplicons using BLAST and Biostrings (R package)
 
-
-
 ## Installation
-###Requirements:
+
+### Requirements:
+
 * Install NCBI [BLAST+](https://www.ncbi.nlm.nih.gov/guide/howto/run-blast-local/) suite
 * Install [Bioconductor](http://www.bioconductor.org/install/) and the Bioconductor package `Biostrings`
 * Install packages `plyr` and `data.table`
 
-###Installation from github through `devtools`
+### Installation from github through `devtools`
+
 ```
 library(devtools)
 install_github("zachth/RinsilicoPCR")
