@@ -156,7 +156,7 @@ blast.params <- list(
 	primers = list(
 		outfmt="'6 qacc sacc pident length qlen slen qstart sstart qend send evalue'",
 		max_target_seqs=20,
-		word_size=8,
+		word_size=8
 		),
 	remote= list(
 		outfmt="'6 qacc sacc pident length qlen slen qstart sstart qend send evalue'",
